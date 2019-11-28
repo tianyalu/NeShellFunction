@@ -14,7 +14,7 @@
 * 方式二  
 ![image](https://github.com/tianyalu/NeShellFunction/blob/master/show/function_factorial2.png)  
 
-### 1.3 带返回值的函数
+### 1.4 带返回值的函数
 * 方式一：该方式只能返回[0,255]之间的数值  
 ![image](https://github.com/tianyalu/NeShellFunction/blob/master/show/function_return1.png)  
 * 方式二：该方式利用字符串的方式可以返回任意数值 
